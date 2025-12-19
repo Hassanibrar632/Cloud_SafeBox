@@ -1,0 +1,4 @@
+hashlib
+opencv-python
+numpy
+cryptography
